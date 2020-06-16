@@ -8,8 +8,6 @@ Funcionalidades:
 - atualização de serviço (ex: valores de banho e tosa), e
 - operação de caixa: compra, atualização de estoque, cálculos de valor e troco e alerta sobre produto insuficiente.
 
-Acesso ao executável: pasta "dist" > "PetshopPataPe"
-
 **************************
 Desenvolvido no curso de Tecnologia em Análise e Desenvolvimento de Sistemas, Centro Universitário Senac. 
 Disciplina Projeto Integrador II: Desenvolvimento Estruturado de Sistemas, aos cuidados de Prof. Higor Delsoto.
