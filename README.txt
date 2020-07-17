@@ -18,6 +18,9 @@ Dayana do Prado Silva
 Denise Trevizo
 Gabriel Henrique Castro
 
+Acesse a documentação e informações adicionais em: 
+https://trevizodenise.wordpress.com/repositorios-do-github/patape/
+
 Junho de 2020
 
 
